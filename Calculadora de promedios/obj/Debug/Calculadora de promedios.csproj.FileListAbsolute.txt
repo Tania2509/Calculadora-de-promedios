@@ -1,0 +1,10 @@
+C:\Users\Estudiante\Desktop\formularios 12625\Calculadora de promedios\bin\Debug\Calculadora de promedios.exe.config
+C:\Users\Estudiante\Desktop\formularios 12625\Calculadora de promedios\bin\Debug\Calculadora de promedios.exe
+C:\Users\Estudiante\Desktop\formularios 12625\Calculadora de promedios\bin\Debug\Calculadora de promedios.pdb
+C:\Users\Estudiante\Desktop\formularios 12625\Calculadora de promedios\obj\Debug\Calculadora de promedios.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\formularios 12625\Calculadora de promedios\obj\Debug\Calculadora_de_promedios.frmSistemasDeNotasITR.resources
+C:\Users\Estudiante\Desktop\formularios 12625\Calculadora de promedios\obj\Debug\Calculadora_de_promedios.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\formularios 12625\Calculadora de promedios\obj\Debug\Calculadora de promedios.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\formularios 12625\Calculadora de promedios\obj\Debug\Calculadora de promedios.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\formularios 12625\Calculadora de promedios\obj\Debug\Calculadora de promedios.exe
+C:\Users\Estudiante\Desktop\formularios 12625\Calculadora de promedios\obj\Debug\Calculadora de promedios.pdb
